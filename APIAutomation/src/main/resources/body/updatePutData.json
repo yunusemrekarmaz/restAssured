@@ -1,0 +1,11 @@
+{
+  "firstname" : "Test",
+  "lastname" : "Automation",
+  "totalprice" : 111,
+  "depositpaid" : true,
+  "bookingdates" : {
+    "checkin" : "2099-09-09",
+    "checkout" : "2019-09-09"
+  },
+  "additionalneeds" : "PUTmethod"
+}
